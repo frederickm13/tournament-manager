@@ -2,6 +2,7 @@
   "name": "tournament-manager-api",
   "version": "1.0.0",
   "description": "REST API for the tournament-manager application.",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
