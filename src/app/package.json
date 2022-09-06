@@ -1,0 +1,11 @@
+{
+  "name": "tournament-manager-app",
+  "version": "1.0.0",
+  "description": "Front-end for the tournament manager application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick McCollum",
+  "license": "MIT"
+}
